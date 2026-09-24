@@ -21,7 +21,7 @@ Use this project only with music you are legally allowed to access and download.
 ## Installation
 
 ```bash
-git clone https://github.com/dd2repo/qobuz-cli.git
+git clone https://github.com/nzrbits/qobuz-cli.git
 cd qobuz-cli
 npm install
 cp .env.example .env
